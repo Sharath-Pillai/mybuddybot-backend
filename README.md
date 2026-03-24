@@ -1,0 +1,1 @@
+it is backend setup for mybuddybot app, it handle the gemini API in backend which help to give right response to user
